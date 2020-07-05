@@ -12,6 +12,5 @@ make
 
 sudo make install
 
-./configure --prefix=/usr/local/keepalived-2.1.2
 
 ###################################################################################
